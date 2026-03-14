@@ -1,7 +1,6 @@
 import 'dotenv/config';
 import { pathToFileURL } from 'node:url';
 import { Hono } from 'hono';
-import { handle } from 'hono/vercel';
 import { serve } from '@hono/node-server';
 import { loadResults } from './api/results.js';
 import { loadScenarios } from './api/scenarios.js';
@@ -38,7 +37,7 @@ app.get('/api/scenarios', async (c) => {
 	return c.json(scenarios);
 });
 
-export default handle(app);
+export default app;
 
 const isDirectRun =
 	typeof process.argv[1] === 'string' && import.meta.url === pathToFileURL(process.argv[1]).href;
