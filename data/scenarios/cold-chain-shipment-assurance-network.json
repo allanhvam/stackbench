@@ -1,0 +1,5 @@
+{
+  "id": "cold-chain-shipment-assurance-network",
+  "title": "Cold chain shipment assurance network",
+  "prompt": "A logistics provider needs an IoT solution to track temperature-sensitive shipments from origin to destination with continuous compliance evidence. The system must flag threshold breaches in near real time, coordinate response actions, and produce auditable reports for regulators and partners. Devices operate across regions with uneven coverage, requiring delayed delivery handling and data integrity checks. Operations teams need route-level visibility, exception workflows, and customer-facing status updates."
+}

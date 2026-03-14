@@ -1,0 +1,5 @@
+{
+  "id": "realtime-design-collaboration-suite",
+  "title": "Real-time design collaboration suite",
+  "prompt": "A product organization wants shared editing for diagrams, comments, and cursor presence for large teams working in parallel. Updates should feel immediate and preserve a coherent history even when many people edit the same artifact. The platform needs low-latency interactions across regions and strong access controls for enterprise customers. Smooth collaboration quality is the top priority."
+}

@@ -1,0 +1,5 @@
+{
+  "id": "startup-web-mvp",
+  "title": "Startup web MVP in 4 weeks",
+  "prompt": "A 3-person team needs to launch a software MVP in 4 weeks with user sign-in, payments, dashboard, and discoverable marketing pages. Small team with mostly single-language product development experience. Need fast iteration and strong developer productivity. Must deploy quickly and handle moderate traffic."
+}

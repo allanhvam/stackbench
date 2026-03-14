@@ -1,0 +1,5 @@
+{
+  "id": "regulatory-audit-workbench",
+  "title": "Regulatory audit workbench",
+  "prompt": "A compliance team needs a system to manage evidence collection, approval trails, and policy attestations across multiple business units. Every change must be traceable and exportable for external audits. Strict role separation and retention rules are mandatory. Reliability and clear permission boundaries matter more than feature velocity."
+}

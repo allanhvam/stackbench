@@ -1,0 +1,5 @@
+{
+  "id": "sales-crm-relationship-workbench",
+  "title": "Sales CRM relationship workbench",
+  "prompt": "A growing sales organization needs a CRM system for lead intake, account tracking, pipeline stages, activity timelines, and renewal forecasting. Managers need clear visibility into team performance, deal risk, and follow-up consistency across regions. The platform must support approval flows, auditability for customer changes, and clean handoffs between sales, onboarding, and support teams. Usability and process discipline are more important than advanced customization at launch."
+}

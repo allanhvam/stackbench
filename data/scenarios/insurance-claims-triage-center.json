@@ -1,0 +1,5 @@
+{
+  "id": "insurance-claims-triage-center",
+  "title": "Insurance claims triage center",
+  "prompt": "An insurer needs an intake and triage system for property claims after severe weather events. Submissions arrive in bursts with photos, forms, and policy references that must be prioritized by urgency and fraud risk. Adjusters require guided review flows, escalation queues, and strict audit trails for each decision. Accuracy, fairness, and surge handling are more important than broad customization."
+}

@@ -1,0 +1,5 @@
+{
+  "id": "public-transit-disruption-command-center",
+  "title": "Public transit disruption command center",
+  "prompt": "A metropolitan transit authority needs a command center to manage service disruptions, rider advisories, and field crew coordination. Operations staff must consolidate incident feeds, assign response tasks, and publish status updates within minutes. Historical incident analysis is needed to improve readiness planning and staffing decisions. The system must stay dependable during citywide emergencies and major events."
+}

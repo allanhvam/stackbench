@@ -1,0 +1,5 @@
+{
+  "id": "offline-field-operations-hub",
+  "title": "Offline-first field operations hub",
+  "prompt": "A distributed operations team needs planning, task completion, and incident reporting in regions with unreliable connectivity. Users must keep working during network outages and sync safely when connectivity returns. Data conflicts should be resolved predictably with minimal manual intervention. The system should prioritize resilience and simple workflows for non-technical staff."
+}

@@ -1,0 +1,5 @@
+{
+  "id": "supply-chain-planning-studio",
+  "title": "Supply chain planning studio",
+  "prompt": "An operations group needs scenario planning for demand forecasts, inventory constraints, and shipping capacity over rolling 18-month horizons. Analysts run many what-if simulations and compare outcomes before approving a plan. Reproducibility, explainability, and scheduled reporting are required for executive reviews. Large periodic computation is acceptable if it improves planning accuracy."
+}

@@ -1,0 +1,5 @@
+{
+  "id": "data-science-internal-tool",
+  "title": "Internal data science tool",
+  "prompt": "A data team needs an internal app for exploratory analysis, model prototyping, and scheduled ETL workflows. Heavy use of existing ML libraries. Rapid experimentation prioritized over raw performance. Will run mostly on managed cloud services."
+}

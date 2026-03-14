@@ -1,0 +1,5 @@
+{
+  "id": "high-throughput-event-api",
+  "title": "High-throughput event ingestion API",
+  "prompt": "The system must ingest 50k events per second with low latency and high reliability, and it will be maintained by backend engineers familiar with static typing. Low p99 latency requirement. Strong observability and type safety. Team can handle extra complexity for performance."
+}

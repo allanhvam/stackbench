@@ -1,0 +1,5 @@
+{
+  "id": "smart-factory-sensor-operations-center",
+  "title": "Smart factory sensor operations center",
+  "prompt": "A manufacturing group needs an IoT operations center to monitor machine health, vibration patterns, and energy usage across multiple plants. The platform must detect anomalies early, trigger maintenance workflows, and preserve traceability for safety audits. Intermittent connectivity from edge locations is expected, so data delivery must be resilient and recoverable. Plant managers need clear dashboards, alert prioritization, and historical trend analysis for uptime planning."
+}

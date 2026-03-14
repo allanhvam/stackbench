@@ -1,0 +1,36 @@
+{
+  "name": "stackbench",
+  "version": "0.1.0",
+  "description": "Benchmark how AI models choose technologies for software scenarios.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev:web": "tsx watch src/web/server.ts",
+    "benchmark": "tsx src/benchmark/run-benchmark.ts",
+    "copilot:models": "tsx src/benchmark/list-models.ts",
+    "build": "tsc -p tsconfig.json",
+    "start:web": "node dist/web/server.js"
+  },
+  "keywords": [
+    "hono",
+    "benchmark",
+    "ai-sdk",
+    "typescript"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.32",
+    "@hono/node-server": "^1.14.4",
+    "dotenv": "^16.4.7",
+    "hono": "^4.7.8",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.14",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}

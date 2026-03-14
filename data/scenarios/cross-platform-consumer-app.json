@@ -1,0 +1,5 @@
+{
+  "id": "cross-platform-consumer-app",
+  "title": "Cross-platform consumer mobile app",
+  "prompt": "A consumer startup wants iOS and Android launches at the same time with frequent UI updates from a web-leaning product team. Single codebase preferred. High velocity UI delivery. Native-like performance expectations."
+}

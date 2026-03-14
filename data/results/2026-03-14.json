@@ -1,0 +1,1684 @@
+{
+  "runId": "423d3b99-e39f-441b-8677-260d12d5522f",
+  "provider": "copilot",
+  "model": "claude-haiku-4.5, claude-opus-4.6, claude-sonnet-4.6, gemini-3-pro-preview, gpt-5-mini, gpt-5.1-codex-mini, gpt-5.2, gpt-5.3-codex",
+  "models": [
+    "claude-haiku-4.5",
+    "claude-opus-4.6",
+    "claude-sonnet-4.6",
+    "gemini-3-pro-preview",
+    "gpt-5-mini",
+    "gpt-5.1-codex-mini",
+    "gpt-5.2",
+    "gpt-5.3-codex"
+  ],
+  "startedAt": "2026-03-14T13:20:04.527Z",
+  "endedAt": "2026-03-14T13:40:31.291Z",
+  "promptVersion": "v2",
+  "cases": [
+    {
+      "caseId": "brand-website-experience-hub",
+      "caseTitle": "Brand website experience hub",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 10288,
+      "createdAt": "2026-03-14T13:20:14.815Z"
+    },
+    {
+      "caseId": "brand-website-experience-hub",
+      "caseTitle": "Brand website experience hub",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 14466,
+      "createdAt": "2026-03-14T13:20:29.281Z"
+    },
+    {
+      "caseId": "brand-website-experience-hub",
+      "caseTitle": "Brand website experience hub",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 20149,
+      "createdAt": "2026-03-14T13:20:49.430Z"
+    },
+    {
+      "caseId": "brand-website-experience-hub",
+      "caseTitle": "Brand website experience hub",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 13854,
+      "createdAt": "2026-03-14T13:21:03.284Z"
+    },
+    {
+      "caseId": "brand-website-experience-hub",
+      "caseTitle": "Brand website experience hub",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "Vercel Edge Runtime",
+        "language": "TypeScript",
+        "webServer": "Next.js (App Router) deployed on Vercel",
+        "database": "Contentful (Headless CMS)"
+      },
+      "responseTimeMs": 18237,
+      "createdAt": "2026-03-14T13:21:21.522Z"
+    },
+    {
+      "caseId": "brand-website-experience-hub",
+      "caseTitle": "Brand website experience hub",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "Vercel Edge Runtime (Node.js 20)",
+        "language": "TypeScript",
+        "webServer": "Next.js 15 App Router on Vercel with Edge Functions",
+        "database": "PlanetScale MySQL (globally distributed)"
+      },
+      "responseTimeMs": 6329,
+      "createdAt": "2026-03-14T13:21:27.851Z"
+    },
+    {
+      "caseId": "brand-website-experience-hub",
+      "caseTitle": "Brand website experience hub",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "Node.js 22 LTS",
+        "language": "TypeScript 5.5",
+        "webServer": "Next.js 15 (App Router) on Vercel",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 3380,
+      "createdAt": "2026-03-14T13:21:31.231Z"
+    },
+    {
+      "caseId": "brand-website-experience-hub",
+      "caseTitle": "Brand website experience hub",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "Node.js 22",
+        "language": "TypeScript",
+        "webServer": "Next.js 15 (App Router)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 7224,
+      "createdAt": "2026-03-14T13:21:38.455Z"
+    },
+    {
+      "caseId": "cold-chain-shipment-assurance-network",
+      "caseTitle": "Cold chain shipment assurance network",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Express.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 11613,
+      "createdAt": "2026-03-14T13:21:50.068Z"
+    },
+    {
+      "caseId": "cold-chain-shipment-assurance-network",
+      "caseTitle": "Cold chain shipment assurance network",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "TimescaleDB"
+      },
+      "responseTimeMs": 5735,
+      "createdAt": "2026-03-14T13:21:55.803Z"
+    },
+    {
+      "caseId": "cold-chain-shipment-assurance-network",
+      "caseTitle": "Cold chain shipment assurance network",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "TimescaleDB"
+      },
+      "responseTimeMs": 19462,
+      "createdAt": "2026-03-14T13:22:15.265Z"
+    },
+    {
+      "caseId": "cold-chain-shipment-assurance-network",
+      "caseTitle": "Cold chain shipment assurance network",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "TimescaleDB"
+      },
+      "responseTimeMs": 10288,
+      "createdAt": "2026-03-14T13:22:25.553Z"
+    },
+    {
+      "caseId": "cold-chain-shipment-assurance-network",
+      "caseTitle": "Cold chain shipment assurance network",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "Amazon EKS (Kubernetes)",
+        "language": "Go (Golang)",
+        "webServer": "Envoy (gRPC proxy)",
+        "database": "TimescaleDB (PostgreSQL)"
+      },
+      "responseTimeMs": 18405,
+      "createdAt": "2026-03-14T13:22:43.958Z"
+    },
+    {
+      "caseId": "cold-chain-shipment-assurance-network",
+      "caseTitle": "Cold chain shipment assurance network",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "AWS Lambda",
+        "language": "TypeScript",
+        "webServer": "AWS API Gateway",
+        "database": "Amazon Timestream"
+      },
+      "responseTimeMs": 2200,
+      "createdAt": "2026-03-14T13:22:46.158Z"
+    },
+    {
+      "caseId": "cold-chain-shipment-assurance-network",
+      "caseTitle": "Cold chain shipment assurance network",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "Eclipse Mosquitto 2.0",
+        "language": "Go 1.22",
+        "webServer": "Caddy 2",
+        "database": "TimescaleDB 2.13"
+      },
+      "responseTimeMs": 3445,
+      "createdAt": "2026-03-14T13:22:49.603Z"
+    },
+    {
+      "caseId": "cold-chain-shipment-assurance-network",
+      "caseTitle": "Cold chain shipment assurance network",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "JVM (Java 21)",
+        "language": "Kotlin",
+        "webServer": "Ktor with Netty",
+        "database": "PostgreSQL with TimescaleDB"
+      },
+      "responseTimeMs": 5498,
+      "createdAt": "2026-03-14T13:22:55.101Z"
+    },
+    {
+      "caseId": "content-blog-publishing-network",
+      "caseTitle": "Content blog publishing network",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 17847,
+      "createdAt": "2026-03-14T13:23:12.948Z"
+    },
+    {
+      "caseId": "content-blog-publishing-network",
+      "caseTitle": "Content blog publishing network",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "PHP 8.3",
+        "language": "PHP",
+        "webServer": "Nginx",
+        "database": "MySQL"
+      },
+      "responseTimeMs": 10732,
+      "createdAt": "2026-03-14T13:23:23.681Z"
+    },
+    {
+      "caseId": "content-blog-publishing-network",
+      "caseTitle": "Content blog publishing network",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 13903,
+      "createdAt": "2026-03-14T13:23:37.584Z"
+    },
+    {
+      "caseId": "content-blog-publishing-network",
+      "caseTitle": "Content blog publishing network",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "PHP",
+        "language": "PHP",
+        "webServer": "Nginx",
+        "database": "MySQL"
+      },
+      "responseTimeMs": 15459,
+      "createdAt": "2026-03-14T13:23:53.043Z"
+    },
+    {
+      "caseId": "content-blog-publishing-network",
+      "caseTitle": "Content blog publishing network",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "Node.js 20 (Vercel Edge Runtime)",
+        "language": "TypeScript",
+        "webServer": "Next.js (13+ with ISR/SSG) deployed on Vercel Edge + Cloudflare CDN",
+        "database": "PostgreSQL (managed via Supabase)"
+      },
+      "responseTimeMs": 13103,
+      "createdAt": "2026-03-14T13:24:06.146Z"
+    },
+    {
+      "caseId": "content-blog-publishing-network",
+      "caseTitle": "Content blog publishing network",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "Vercel Edge Runtime",
+        "language": "TypeScript",
+        "webServer": "Next.js with App Router",
+        "database": "Supabase PostgreSQL"
+      },
+      "responseTimeMs": 2904,
+      "createdAt": "2026-03-14T13:24:09.050Z"
+    },
+    {
+      "caseId": "content-blog-publishing-network",
+      "caseTitle": "Content blog publishing network",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "Node.js 22 LTS",
+        "language": "TypeScript",
+        "webServer": "Next.js 15 (App Router)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 2036,
+      "createdAt": "2026-03-14T13:24:11.087Z"
+    },
+    {
+      "caseId": "content-blog-publishing-network",
+      "caseTitle": "Content blog publishing network",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "Node.js 22",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 3449,
+      "createdAt": "2026-03-14T13:24:14.536Z"
+    },
+    {
+      "caseId": "cross-platform-consumer-app",
+      "caseTitle": "Cross-platform consumer mobile app",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Express",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 9577,
+      "createdAt": "2026-03-14T13:24:24.113Z"
+    },
+    {
+      "caseId": "cross-platform-consumer-app",
+      "caseTitle": "Cross-platform consumer mobile app",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "React Native (Expo)",
+        "language": "TypeScript",
+        "webServer": "Node.js with Express",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 5668,
+      "createdAt": "2026-03-14T13:24:29.781Z"
+    },
+    {
+      "caseId": "cross-platform-consumer-app",
+      "caseTitle": "Cross-platform consumer mobile app",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "React Native (Expo)",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 17782,
+      "createdAt": "2026-03-14T13:24:47.564Z"
+    },
+    {
+      "caseId": "cross-platform-consumer-app",
+      "caseTitle": "Cross-platform consumer mobile app",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "React Native",
+        "language": "TypeScript",
+        "webServer": "Node.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 50876,
+      "createdAt": "2026-03-14T13:25:38.440Z"
+    },
+    {
+      "caseId": "cross-platform-consumer-app",
+      "caseTitle": "Cross-platform consumer mobile app",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "Node.js 20",
+        "language": "TypeScript",
+        "webServer": "Next.js (Vercel serverless)",
+        "database": "PostgreSQL (Supabase)"
+      },
+      "responseTimeMs": 17809,
+      "createdAt": "2026-03-14T13:25:56.249Z"
+    },
+    {
+      "caseId": "cross-platform-consumer-app",
+      "caseTitle": "Cross-platform consumer mobile app",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "React Native with Hermes",
+        "language": "TypeScript",
+        "webServer": "Vercel Edge Functions (Node.js)",
+        "database": "Firebase Firestore"
+      },
+      "responseTimeMs": 4293,
+      "createdAt": "2026-03-14T13:26:00.542Z"
+    },
+    {
+      "caseId": "cross-platform-consumer-app",
+      "caseTitle": "Cross-platform consumer mobile app",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "React Native (Hermes)",
+        "language": "TypeScript",
+        "webServer": "Fastify (Node.js 22 LTS)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 2581,
+      "createdAt": "2026-03-14T13:26:03.123Z"
+    },
+    {
+      "caseId": "cross-platform-consumer-app",
+      "caseTitle": "Cross-platform consumer mobile app",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "Node.js 20 LTS",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 5570,
+      "createdAt": "2026-03-14T13:26:08.693Z"
+    },
+    {
+      "caseId": "data-science-internal-tool",
+      "caseTitle": "Internal data science tool",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Python 3.11",
+        "language": "Python",
+        "webServer": "Streamlit",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 8519,
+      "createdAt": "2026-03-14T13:26:17.212Z"
+    },
+    {
+      "caseId": "data-science-internal-tool",
+      "caseTitle": "Internal data science tool",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "CPython",
+        "language": "Python",
+        "webServer": "FastAPI",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 6295,
+      "createdAt": "2026-03-14T13:26:23.507Z"
+    },
+    {
+      "caseId": "data-science-internal-tool",
+      "caseTitle": "Internal data science tool",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Python 3.11",
+        "language": "Python",
+        "webServer": "Jupyter / Streamlit",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 12747,
+      "createdAt": "2026-03-14T13:26:36.254Z"
+    },
+    {
+      "caseId": "data-science-internal-tool",
+      "caseTitle": "Internal data science tool",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "CPython",
+        "language": "Python",
+        "webServer": "FastAPI",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 5184,
+      "createdAt": "2026-03-14T13:26:41.438Z"
+    },
+    {
+      "caseId": "data-science-internal-tool",
+      "caseTitle": "Internal data science tool",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "Google Cloud Run (containerized Python 3.11)",
+        "language": "Python 3.11",
+        "webServer": "FastAPI (Uvicorn ASGI)",
+        "database": "Google BigQuery"
+      },
+      "responseTimeMs": 16575,
+      "createdAt": "2026-03-14T13:26:58.013Z"
+    },
+    {
+      "caseId": "data-science-internal-tool",
+      "caseTitle": "Internal data science tool",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "AWS Lambda",
+        "language": "Python",
+        "webServer": "FastAPI (hosted via AWS API Gateway + Lambda)",
+        "database": "Amazon Redshift"
+      },
+      "responseTimeMs": 2600,
+      "createdAt": "2026-03-14T13:27:00.613Z"
+    },
+    {
+      "caseId": "data-science-internal-tool",
+      "caseTitle": "Internal data science tool",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "CPython 3.12",
+        "language": "Python 3.12",
+        "webServer": "FastAPI (served via Uvicorn)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 2886,
+      "createdAt": "2026-03-14T13:27:03.499Z"
+    },
+    {
+      "caseId": "data-science-internal-tool",
+      "caseTitle": "Internal data science tool",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "CPython 3.12",
+        "language": "Python",
+        "webServer": "FastAPI + Uvicorn",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 3827,
+      "createdAt": "2026-03-14T13:27:07.326Z"
+    },
+    {
+      "caseId": "high-throughput-event-api",
+      "caseTitle": "High-throughput event ingestion API",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Go",
+        "language": "Go",
+        "webServer": "Fiber",
+        "database": "ClickHouse"
+      },
+      "responseTimeMs": 13328,
+      "createdAt": "2026-03-14T13:27:20.654Z"
+    },
+    {
+      "caseId": "high-throughput-event-api",
+      "caseTitle": "High-throughput event ingestion API",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "JVM (GraalVM)",
+        "language": "Java",
+        "webServer": "Netty",
+        "database": "Apache Kafka"
+      },
+      "responseTimeMs": 6323,
+      "createdAt": "2026-03-14T13:27:26.977Z"
+    },
+    {
+      "caseId": "high-throughput-event-api",
+      "caseTitle": "High-throughput event ingestion API",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Go",
+        "language": "Go",
+        "webServer": "gRPC-Go",
+        "database": "Apache Kafka"
+      },
+      "responseTimeMs": 11672,
+      "createdAt": "2026-03-14T13:27:38.649Z"
+    },
+    {
+      "caseId": "high-throughput-event-api",
+      "caseTitle": "High-throughput event ingestion API",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "Tokio",
+        "language": "Rust",
+        "webServer": "Actix-web",
+        "database": "ScyllaDB"
+      },
+      "responseTimeMs": 12290,
+      "createdAt": "2026-03-14T13:27:50.939Z"
+    },
+    {
+      "caseId": "high-throughput-event-api",
+      "caseTitle": "High-throughput event ingestion API",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "Tokio (Rust async runtime)",
+        "language": "Rust",
+        "webServer": "axum (built on hyper)",
+        "database": "ScyllaDB"
+      },
+      "responseTimeMs": 13425,
+      "createdAt": "2026-03-14T13:28:04.365Z"
+    },
+    {
+      "caseId": "high-throughput-event-api",
+      "caseTitle": "High-throughput event ingestion API",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "GraalVM Native Image",
+        "language": "Kotlin",
+        "webServer": "Micronaut Netty server",
+        "database": "Apache Cassandra"
+      },
+      "responseTimeMs": 3473,
+      "createdAt": "2026-03-14T13:28:07.838Z"
+    },
+    {
+      "caseId": "high-throughput-event-api",
+      "caseTitle": "High-throughput event ingestion API",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "JVM (GraalVM)",
+        "language": "Java (JDK 21)",
+        "webServer": "Netty",
+        "database": "ClickHouse"
+      },
+      "responseTimeMs": 2527,
+      "createdAt": "2026-03-14T13:28:10.366Z"
+    },
+    {
+      "caseId": "high-throughput-event-api",
+      "caseTitle": "High-throughput event ingestion API",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "Tokio",
+        "language": "Rust",
+        "webServer": "Axum",
+        "database": "ClickHouse"
+      },
+      "responseTimeMs": 5486,
+      "createdAt": "2026-03-14T13:28:15.852Z"
+    },
+    {
+      "caseId": "insurance-claims-triage-center",
+      "caseTitle": "Insurance claims triage center",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Go",
+        "language": "Go",
+        "webServer": "Gin",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 16669,
+      "createdAt": "2026-03-14T13:28:32.521Z"
+    },
+    {
+      "caseId": "insurance-claims-triage-center",
+      "caseTitle": "Insurance claims triage center",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Express",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 9414,
+      "createdAt": "2026-03-14T13:28:41.935Z"
+    },
+    {
+      "caseId": "insurance-claims-triage-center",
+      "caseTitle": "Insurance claims triage center",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "JVM (Java 21)",
+        "language": "Java",
+        "webServer": "Spring Boot",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 17276,
+      "createdAt": "2026-03-14T13:28:59.213Z"
+    },
+    {
+      "caseId": "insurance-claims-triage-center",
+      "caseTitle": "Insurance claims triage center",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "Java (JVM)",
+        "language": "Java",
+        "webServer": "Spring Boot",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 5243,
+      "createdAt": "2026-03-14T13:29:04.456Z"
+    },
+    {
+      "caseId": "insurance-claims-triage-center",
+      "caseTitle": "Insurance claims triage center",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "OpenJDK 17",
+        "language": "Kotlin",
+        "webServer": "Spring Boot WebFlux (Netty)",
+        "database": "PostgreSQL (with pgAudit extension)"
+      },
+      "responseTimeMs": 10364,
+      "createdAt": "2026-03-14T13:29:14.820Z"
+    },
+    {
+      "caseId": "insurance-claims-triage-center",
+      "caseTitle": "Insurance claims triage center",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "AWS Lambda",
+        "language": "Python",
+        "webServer": "Amazon API Gateway",
+        "database": "Amazon Aurora PostgreSQL"
+      },
+      "responseTimeMs": 2751,
+      "createdAt": "2026-03-14T13:29:17.571Z"
+    },
+    {
+      "caseId": "insurance-claims-triage-center",
+      "caseTitle": "Insurance claims triage center",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "OpenJDK 21 (JVM)",
+        "language": "Kotlin",
+        "webServer": "Spring Boot 3 (embedded Tomcat)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 6967,
+      "createdAt": "2026-03-14T13:29:24.539Z"
+    },
+    {
+      "caseId": "insurance-claims-triage-center",
+      "caseTitle": "Insurance claims triage center",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "JVM (Java 21)",
+        "language": "Kotlin",
+        "webServer": "Spring Boot 3 (WebFlux on Netty)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 4459,
+      "createdAt": "2026-03-14T13:29:28.998Z"
+    },
+    {
+      "caseId": "nonprofit-grant-review-exchange",
+      "caseTitle": "Nonprofit grant review exchange",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Express.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 14263,
+      "createdAt": "2026-03-14T13:29:43.261Z"
+    },
+    {
+      "caseId": "nonprofit-grant-review-exchange",
+      "caseTitle": "Nonprofit grant review exchange",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 8183,
+      "createdAt": "2026-03-14T13:29:51.444Z"
+    },
+    {
+      "caseId": "nonprofit-grant-review-exchange",
+      "caseTitle": "Nonprofit grant review exchange",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 22917,
+      "createdAt": "2026-03-14T13:30:14.361Z"
+    },
+    {
+      "caseId": "nonprofit-grant-review-exchange",
+      "caseTitle": "Nonprofit grant review exchange",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "CPython",
+        "language": "Python",
+        "webServer": "Gunicorn",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 5879,
+      "createdAt": "2026-03-14T13:30:20.240Z"
+    },
+    {
+      "caseId": "nonprofit-grant-review-exchange",
+      "caseTitle": "Nonprofit grant review exchange",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "AWS Lambda (Node.js 20.x)",
+        "language": "TypeScript",
+        "webServer": "Amazon API Gateway",
+        "database": "Amazon RDS for PostgreSQL (Postgres 15, managed)"
+      },
+      "responseTimeMs": 24511,
+      "createdAt": "2026-03-14T13:30:44.751Z"
+    },
+    {
+      "caseId": "nonprofit-grant-review-exchange",
+      "caseTitle": "Nonprofit grant review exchange",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "Node.js 20 LTS",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 2271,
+      "createdAt": "2026-03-14T13:30:47.022Z"
+    },
+    {
+      "caseId": "nonprofit-grant-review-exchange",
+      "caseTitle": "Nonprofit grant review exchange",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "JVM (Eclipse Temurin 21 LTS)",
+        "language": "Kotlin",
+        "webServer": "Spring Boot 3.3 (embedded Tomcat 10.1)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 2336,
+      "createdAt": "2026-03-14T13:30:49.358Z"
+    },
+    {
+      "caseId": "nonprofit-grant-review-exchange",
+      "caseTitle": "Nonprofit grant review exchange",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": ".NET 8",
+        "language": "C# 12",
+        "webServer": "ASP.NET Core (Kestrel)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 4917,
+      "createdAt": "2026-03-14T13:30:54.275Z"
+    },
+    {
+      "caseId": "offline-field-operations-hub",
+      "caseTitle": "Offline-first field operations hub",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Express.js",
+        "database": "CouchDB"
+      },
+      "responseTimeMs": 12413,
+      "createdAt": "2026-03-14T13:31:06.688Z"
+    },
+    {
+      "caseId": "offline-field-operations-hub",
+      "caseTitle": "Offline-first field operations hub",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Express",
+        "database": "CouchDB"
+      },
+      "responseTimeMs": 9463,
+      "createdAt": "2026-03-14T13:31:16.151Z"
+    },
+    {
+      "caseId": "offline-field-operations-hub",
+      "caseTitle": "Offline-first field operations hub",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Express",
+        "database": "CouchDB"
+      },
+      "responseTimeMs": 19949,
+      "createdAt": "2026-03-14T13:31:36.100Z"
+    },
+    {
+      "caseId": "offline-field-operations-hub",
+      "caseTitle": "Offline-first field operations hub",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Nginx",
+        "database": "Apache CouchDB"
+      },
+      "responseTimeMs": 12616,
+      "createdAt": "2026-03-14T13:31:48.716Z"
+    },
+    {
+      "caseId": "offline-field-operations-hub",
+      "caseTitle": "Offline-first field operations hub",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "Node.js 20.x (LTS)",
+        "language": "TypeScript",
+        "webServer": "Express.js",
+        "database": "Apache CouchDB (with PouchDB clients for offline-first sync)"
+      },
+      "responseTimeMs": 14646,
+      "createdAt": "2026-03-14T13:32:03.362Z"
+    },
+    {
+      "caseId": "offline-field-operations-hub",
+      "caseTitle": "Offline-first field operations hub",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "Node.js 22 (with built-in support for event-driven resilience)",
+        "language": "TypeScript (for consistent typing across client and sync services)",
+        "webServer": "Fastify (lightweight, support for HTTP/2, resilience hooks, and good plugin ecosystem)",
+        "database": "Apache CouchDB (distributed, offline-first replication with deterministic conflict resolution)"
+      },
+      "responseTimeMs": 3138,
+      "createdAt": "2026-03-14T13:32:06.500Z"
+    },
+    {
+      "caseId": "offline-field-operations-hub",
+      "caseTitle": "Offline-first field operations hub",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "Node.js 22 LTS",
+        "language": "TypeScript 5.5",
+        "webServer": "Fastify 4",
+        "database": "Apache CouchDB 3.3"
+      },
+      "responseTimeMs": 9325,
+      "createdAt": "2026-03-14T13:32:15.825Z"
+    },
+    {
+      "caseId": "offline-field-operations-hub",
+      "caseTitle": "Offline-first field operations hub",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "Node.js 22",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "Apache CouchDB"
+      },
+      "responseTimeMs": 6942,
+      "createdAt": "2026-03-14T13:32:22.767Z"
+    },
+    {
+      "caseId": "public-transit-disruption-command-center",
+      "caseTitle": "Public transit disruption command center",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 9220,
+      "createdAt": "2026-03-14T13:32:31.988Z"
+    },
+    {
+      "caseId": "public-transit-disruption-command-center",
+      "caseTitle": "Public transit disruption command center",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 7433,
+      "createdAt": "2026-03-14T13:32:39.421Z"
+    },
+    {
+      "caseId": "public-transit-disruption-command-center",
+      "caseTitle": "Public transit disruption command center",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 22707,
+      "createdAt": "2026-03-14T13:33:02.128Z"
+    },
+    {
+      "caseId": "public-transit-disruption-command-center",
+      "caseTitle": "Public transit disruption command center",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "JVM",
+        "language": "Java",
+        "webServer": "Spring Boot",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 4599,
+      "createdAt": "2026-03-14T13:33:06.727Z"
+    },
+    {
+      "caseId": "public-transit-disruption-command-center",
+      "caseTitle": "Public transit disruption command center",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "OpenJDK 17",
+        "language": "Java",
+        "webServer": "Spring Boot (WebFlux with Netty)",
+        "database": "PostgreSQL with TimescaleDB extension"
+      },
+      "responseTimeMs": 11318,
+      "createdAt": "2026-03-14T13:33:18.045Z"
+    },
+    {
+      "caseId": "public-transit-disruption-command-center",
+      "caseTitle": "Public transit disruption command center",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "Node.js 20",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "CockroachDB"
+      },
+      "responseTimeMs": 2490,
+      "createdAt": "2026-03-14T13:33:20.535Z"
+    },
+    {
+      "caseId": "public-transit-disruption-command-center",
+      "caseTitle": "Public transit disruption command center",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "Eclipse Temurin OpenJDK 21",
+        "language": "Kotlin 2.0",
+        "webServer": "Spring Boot 3.3 (embedded Undertow)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 2401,
+      "createdAt": "2026-03-14T13:33:22.936Z"
+    },
+    {
+      "caseId": "public-transit-disruption-command-center",
+      "caseTitle": "Public transit disruption command center",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "JVM (Java 21)",
+        "language": "Kotlin",
+        "webServer": "Spring Boot (WebFlux) with Netty",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 4197,
+      "createdAt": "2026-03-14T13:33:27.133Z"
+    },
+    {
+      "caseId": "realtime-design-collaboration-suite",
+      "caseTitle": "Real-time design collaboration suite",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 12938,
+      "createdAt": "2026-03-14T13:33:40.071Z"
+    },
+    {
+      "caseId": "realtime-design-collaboration-suite",
+      "caseTitle": "Real-time design collaboration suite",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 16747,
+      "createdAt": "2026-03-14T13:33:56.818Z"
+    },
+    {
+      "caseId": "realtime-design-collaboration-suite",
+      "caseTitle": "Real-time design collaboration suite",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "YugabyteDB"
+      },
+      "responseTimeMs": 13718,
+      "createdAt": "2026-03-14T13:34:10.536Z"
+    },
+    {
+      "caseId": "realtime-design-collaboration-suite",
+      "caseTitle": "Real-time design collaboration suite",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Socket.io",
+        "database": "Redis"
+      },
+      "responseTimeMs": 4626,
+      "createdAt": "2026-03-14T13:34:15.162Z"
+    },
+    {
+      "caseId": "realtime-design-collaboration-suite",
+      "caseTitle": "Real-time design collaboration suite",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "Node.js 20 (LTS)",
+        "language": "TypeScript",
+        "webServer": "Fastify (with WebSocket integration)",
+        "database": "CockroachDB (geo-distributed, strongly consistent SQL)"
+      },
+      "responseTimeMs": 19965,
+      "createdAt": "2026-03-14T13:34:35.127Z"
+    },
+    {
+      "caseId": "realtime-design-collaboration-suite",
+      "caseTitle": "Real-time design collaboration suite",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "Node.js 20",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "CockroachDB"
+      },
+      "responseTimeMs": 2531,
+      "createdAt": "2026-03-14T13:34:37.658Z"
+    },
+    {
+      "caseId": "realtime-design-collaboration-suite",
+      "caseTitle": "Real-time design collaboration suite",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "Node.js 22 LTS",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "CockroachDB"
+      },
+      "responseTimeMs": 7995,
+      "createdAt": "2026-03-14T13:34:45.653Z"
+    },
+    {
+      "caseId": "realtime-design-collaboration-suite",
+      "caseTitle": "Real-time design collaboration suite",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "BEAM (Erlang/OTP 27)",
+        "language": "Elixir",
+        "webServer": "Phoenix 1.7 (Cowboy + Phoenix Channels)",
+        "database": "CockroachDB"
+      },
+      "responseTimeMs": 7081,
+      "createdAt": "2026-03-14T13:34:52.734Z"
+    },
+    {
+      "caseId": "regulatory-audit-workbench",
+      "caseTitle": "Regulatory audit workbench",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Java Virtual Machine (OpenJDK/JVM)",
+        "language": "Java",
+        "webServer": "Apache Tomcat",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 8287,
+      "createdAt": "2026-03-14T13:35:01.021Z"
+    },
+    {
+      "caseId": "regulatory-audit-workbench",
+      "caseTitle": "Regulatory audit workbench",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Express",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 6420,
+      "createdAt": "2026-03-14T13:35:07.441Z"
+    },
+    {
+      "caseId": "regulatory-audit-workbench",
+      "caseTitle": "Regulatory audit workbench",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "JVM (Java 21)",
+        "language": "Java",
+        "webServer": "Spring Boot",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 14875,
+      "createdAt": "2026-03-14T13:35:22.316Z"
+    },
+    {
+      "caseId": "regulatory-audit-workbench",
+      "caseTitle": "Regulatory audit workbench",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "JVM",
+        "language": "Java",
+        "webServer": "Spring Boot",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 8547,
+      "createdAt": "2026-03-14T13:35:30.864Z"
+    },
+    {
+      "caseId": "regulatory-audit-workbench",
+      "caseTitle": "Regulatory audit workbench",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "OpenJDK 17",
+        "language": "Java 17",
+        "webServer": "Spring Boot (embedded Tomcat)",
+        "database": "PostgreSQL 14"
+      },
+      "responseTimeMs": 14471,
+      "createdAt": "2026-03-14T13:35:45.335Z"
+    },
+    {
+      "caseId": "regulatory-audit-workbench",
+      "caseTitle": "Regulatory audit workbench",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "AWS Lambda with AWS Step Functions",
+        "language": "TypeScript",
+        "webServer": "AWS API Gateway with Mutual TLS",
+        "database": "Amazon Aurora PostgreSQL with IAM authentication"
+      },
+      "responseTimeMs": 2361,
+      "createdAt": "2026-03-14T13:35:47.696Z"
+    },
+    {
+      "caseId": "regulatory-audit-workbench",
+      "caseTitle": "Regulatory audit workbench",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "Eclipse Temurin 21 (JVM)",
+        "language": "Kotlin",
+        "webServer": "Spring Boot 3 (embedded Tomcat 10.1)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 2282,
+      "createdAt": "2026-03-14T13:35:49.978Z"
+    },
+    {
+      "caseId": "regulatory-audit-workbench",
+      "caseTitle": "Regulatory audit workbench",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "Eclipse Temurin OpenJDK 21",
+        "language": "Java 21",
+        "webServer": "Nginx 1.26",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 5629,
+      "createdAt": "2026-03-14T13:35:55.607Z"
+    },
+    {
+      "caseId": "sales-crm-relationship-workbench",
+      "caseTitle": "Sales CRM relationship workbench",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Express.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 8699,
+      "createdAt": "2026-03-14T13:36:04.306Z"
+    },
+    {
+      "caseId": "sales-crm-relationship-workbench",
+      "caseTitle": "Sales CRM relationship workbench",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 9770,
+      "createdAt": "2026-03-14T13:36:14.076Z"
+    },
+    {
+      "caseId": "sales-crm-relationship-workbench",
+      "caseTitle": "Sales CRM relationship workbench",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Express",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 8018,
+      "createdAt": "2026-03-14T13:36:22.094Z"
+    },
+    {
+      "caseId": "sales-crm-relationship-workbench",
+      "caseTitle": "Sales CRM relationship workbench",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "NestJS",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 6478,
+      "createdAt": "2026-03-14T13:36:28.573Z"
+    },
+    {
+      "caseId": "sales-crm-relationship-workbench",
+      "caseTitle": "Sales CRM relationship workbench",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "OpenJDK 17",
+        "language": "Kotlin",
+        "webServer": "Spring Boot (embedded Tomcat)",
+        "database": "PostgreSQL 15"
+      },
+      "responseTimeMs": 12194,
+      "createdAt": "2026-03-14T13:36:40.767Z"
+    },
+    {
+      "caseId": "sales-crm-relationship-workbench",
+      "caseTitle": "Sales CRM relationship workbench",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "Node.js 20 LTS",
+        "language": "TypeScript",
+        "webServer": "NestJS (Express)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 3497,
+      "createdAt": "2026-03-14T13:36:44.264Z"
+    },
+    {
+      "caseId": "sales-crm-relationship-workbench",
+      "caseTitle": "Sales CRM relationship workbench",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "Node.js 22 LTS",
+        "language": "TypeScript 5.5",
+        "webServer": "NestJS 10 (Fastify adapter)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 2724,
+      "createdAt": "2026-03-14T13:36:46.988Z"
+    },
+    {
+      "caseId": "sales-crm-relationship-workbench",
+      "caseTitle": "Sales CRM relationship workbench",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": ".NET 8",
+        "language": "C# 12",
+        "webServer": "ASP.NET Core (Kestrel)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 5665,
+      "createdAt": "2026-03-14T13:36:52.653Z"
+    },
+    {
+      "caseId": "smart-factory-sensor-operations-center",
+      "caseTitle": "Smart factory sensor operations center",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Go",
+        "language": "Go",
+        "webServer": "Gin",
+        "database": "TimescaleDB"
+      },
+      "responseTimeMs": 18013,
+      "createdAt": "2026-03-14T13:37:10.666Z"
+    },
+    {
+      "caseId": "smart-factory-sensor-operations-center",
+      "caseTitle": "Smart factory sensor operations center",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "TimescaleDB"
+      },
+      "responseTimeMs": 7980,
+      "createdAt": "2026-03-14T13:37:18.646Z"
+    },
+    {
+      "caseId": "smart-factory-sensor-operations-center",
+      "caseTitle": "Smart factory sensor operations center",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "TimescaleDB"
+      },
+      "responseTimeMs": 19879,
+      "createdAt": "2026-03-14T13:37:38.525Z"
+    },
+    {
+      "caseId": "smart-factory-sensor-operations-center",
+      "caseTitle": "Smart factory sensor operations center",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Fastify",
+        "database": "TimescaleDB"
+      },
+      "responseTimeMs": 10972,
+      "createdAt": "2026-03-14T13:37:49.497Z"
+    },
+    {
+      "caseId": "smart-factory-sensor-operations-center",
+      "caseTitle": "Smart factory sensor operations center",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "Amazon EKS (Kubernetes) with AWS IoT Core for resilient device ingestion",
+        "language": "Go 1.20",
+        "webServer": "NGINX (Kubernetes Ingress Controller)",
+        "database": "TimescaleDB (Postgres 15 with TimescaleDB extension)"
+      },
+      "responseTimeMs": 17286,
+      "createdAt": "2026-03-14T13:38:06.783Z"
+    },
+    {
+      "caseId": "smart-factory-sensor-operations-center",
+      "caseTitle": "Smart factory sensor operations center",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "AWS Fargate on EKS with AWS IoT integration",
+        "language": "Python 3.11",
+        "webServer": "FastAPI with Uvicorn behind AWS App Mesh",
+        "database": "Amazon Timestream with DynamoDB for metadata"
+      },
+      "responseTimeMs": 5560,
+      "createdAt": "2026-03-14T13:38:12.344Z"
+    },
+    {
+      "caseId": "smart-factory-sensor-operations-center",
+      "caseTitle": "Smart factory sensor operations center",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "JVM (Java 21)",
+        "language": "Kotlin",
+        "webServer": "Spring Boot 3 (embedded Netty)",
+        "database": "TimescaleDB (PostgreSQL 16)"
+      },
+      "responseTimeMs": 3253,
+      "createdAt": "2026-03-14T13:38:15.597Z"
+    },
+    {
+      "caseId": "smart-factory-sensor-operations-center",
+      "caseTitle": "Smart factory sensor operations center",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "JVM (Eclipse Temurin 21)",
+        "language": "Kotlin",
+        "webServer": "Ktor (Netty)",
+        "database": "PostgreSQL with TimescaleDB"
+      },
+      "responseTimeMs": 5765,
+      "createdAt": "2026-03-14T13:38:21.362Z"
+    },
+    {
+      "caseId": "startup-web-mvp",
+      "caseTitle": "Startup web MVP in 4 weeks",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 11526,
+      "createdAt": "2026-03-14T13:38:32.888Z"
+    },
+    {
+      "caseId": "startup-web-mvp",
+      "caseTitle": "Startup web MVP in 4 weeks",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 7767,
+      "createdAt": "2026-03-14T13:38:40.655Z"
+    },
+    {
+      "caseId": "startup-web-mvp",
+      "caseTitle": "Startup web MVP in 4 weeks",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 14273,
+      "createdAt": "2026-03-14T13:38:54.928Z"
+    },
+    {
+      "caseId": "startup-web-mvp",
+      "caseTitle": "Startup web MVP in 4 weeks",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "Node.js",
+        "language": "TypeScript",
+        "webServer": "Next.js",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 14177,
+      "createdAt": "2026-03-14T13:39:09.105Z"
+    },
+    {
+      "caseId": "startup-web-mvp",
+      "caseTitle": "Startup web MVP in 4 weeks",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "Node.js 18 LTS",
+        "language": "TypeScript",
+        "webServer": "Next.js (App Router) deployed on Vercel",
+        "database": "Supabase (managed PostgreSQL)"
+      },
+      "responseTimeMs": 9828,
+      "createdAt": "2026-03-14T13:39:18.933Z"
+    },
+    {
+      "caseId": "startup-web-mvp",
+      "caseTitle": "Startup web MVP in 4 weeks",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "Node.js 20 (V8+TurboFan)",
+        "language": "TypeScript",
+        "webServer": "Next.js App Router running on Vercel or Cloud Run",
+        "database": "Supabase Postgres"
+      },
+      "responseTimeMs": 3299,
+      "createdAt": "2026-03-14T13:39:22.232Z"
+    },
+    {
+      "caseId": "startup-web-mvp",
+      "caseTitle": "Startup web MVP in 4 weeks",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "Node.js 22 LTS",
+        "language": "TypeScript",
+        "webServer": "Next.js 15 (App Router)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 2196,
+      "createdAt": "2026-03-14T13:39:24.428Z"
+    },
+    {
+      "caseId": "startup-web-mvp",
+      "caseTitle": "Startup web MVP in 4 weeks",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "Node.js 20",
+        "language": "TypeScript",
+        "webServer": "Next.js 15",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 3938,
+      "createdAt": "2026-03-14T13:39:28.366Z"
+    },
+    {
+      "caseId": "supply-chain-planning-studio",
+      "caseTitle": "Supply chain planning studio",
+      "model": "claude-haiku-4.5",
+      "decision": {
+        "runtime": "Python 3",
+        "language": "Python",
+        "webServer": "FastAPI",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 10162,
+      "createdAt": "2026-03-14T13:39:38.528Z"
+    },
+    {
+      "caseId": "supply-chain-planning-studio",
+      "caseTitle": "Supply chain planning studio",
+      "model": "claude-opus-4.6",
+      "decision": {
+        "runtime": "CPython",
+        "language": "Python",
+        "webServer": "FastAPI",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 7882,
+      "createdAt": "2026-03-14T13:39:46.410Z"
+    },
+    {
+      "caseId": "supply-chain-planning-studio",
+      "caseTitle": "Supply chain planning studio",
+      "model": "claude-sonnet-4.6",
+      "decision": {
+        "runtime": "Python 3.12",
+        "language": "Python",
+        "webServer": "FastAPI",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 13794,
+      "createdAt": "2026-03-14T13:40:00.204Z"
+    },
+    {
+      "caseId": "supply-chain-planning-studio",
+      "caseTitle": "Supply chain planning studio",
+      "model": "gemini-3-pro-preview",
+      "decision": {
+        "runtime": "Python",
+        "language": "Python",
+        "webServer": "Gunicorn",
+        "database": "PostgreSQL"
+      },
+      "responseTimeMs": 5383,
+      "createdAt": "2026-03-14T13:40:05.587Z"
+    },
+    {
+      "caseId": "supply-chain-planning-studio",
+      "caseTitle": "Supply chain planning studio",
+      "model": "gpt-5-mini",
+      "decision": {
+        "runtime": "Python 3.11 (CPython) in Docker",
+        "language": "Python",
+        "webServer": "FastAPI with Uvicorn",
+        "database": "PostgreSQL with TimescaleDB extension"
+      },
+      "responseTimeMs": 13107,
+      "createdAt": "2026-03-14T13:40:18.694Z"
+    },
+    {
+      "caseId": "supply-chain-planning-studio",
+      "caseTitle": "Supply chain planning studio",
+      "model": "gpt-5.1-codex-mini",
+      "decision": {
+        "runtime": "Apache Airflow 2.7 on Python 3.11",
+        "language": "Python 3.11",
+        "webServer": "FastAPI 0.111 served via Gunicorn",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 5610,
+      "createdAt": "2026-03-14T13:40:24.304Z"
+    },
+    {
+      "caseId": "supply-chain-planning-studio",
+      "caseTitle": "Supply chain planning studio",
+      "model": "gpt-5.2",
+      "decision": {
+        "runtime": "CPython 3.12",
+        "language": "Python 3.12",
+        "webServer": "FastAPI 0.110 (served with Uvicorn 0.29)",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 2456,
+      "createdAt": "2026-03-14T13:40:26.760Z"
+    },
+    {
+      "caseId": "supply-chain-planning-studio",
+      "caseTitle": "Supply chain planning studio",
+      "model": "gpt-5.3-codex",
+      "decision": {
+        "runtime": "Python 3.12 (CPython)",
+        "language": "Python",
+        "webServer": "FastAPI with Uvicorn",
+        "database": "PostgreSQL 16"
+      },
+      "responseTimeMs": 4516,
+      "createdAt": "2026-03-14T13:40:31.276Z"
+    }
+  ]
+}
