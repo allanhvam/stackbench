@@ -59,6 +59,7 @@ export async function createCopilotDecisionProvider(modelId: string): Promise<De
         return decisionSchema.parse(json);
       } finally {
         await session.disconnect();
+        await client.deleteSession(session.sessionId);
       }
     },
     async dispose(): Promise<void> {
