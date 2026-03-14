@@ -5,11 +5,11 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "dev:web": "tsx watch src/web/server.ts",
+    "dev:web": "tsx watch src/server.ts",
     "benchmark": "tsx src/benchmark/run-benchmark.ts",
     "copilot:models": "tsx src/benchmark/list-models.ts",
     "build": "tsc -p tsconfig.json",
-    "start:web": "node dist/web/server.js"
+    "start:web": "node dist/server.js"
   },
   "keywords": [
     "hono",
@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "dependencies": {
     "@github/copilot-sdk": "^0.1.32",

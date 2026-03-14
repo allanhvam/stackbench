@@ -70,7 +70,7 @@ npm run copilot:models
 - `npm run copilot:models`: list available Copilot models (latest variant per family)
 - `npm run dev:web`: run the Hono web server in watch mode
 - `npm run build`: compile TypeScript to `dist/`
-- `npm run start:web`: run compiled server from `dist/web/server.js`
+- `npm run start:web`: run compiled server from `dist/server.js`
 
 ## Data Contracts
 
@@ -91,7 +91,7 @@ Result files live in `data/results/*.json` and contain run metadata plus per-sce
 
 ## Web/API
 
-The server is in `src/web/server.ts`.
+The main server entrypoint is `src/server.ts`, and HTML rendering is in `src/web/render.ts`.
 
 - `/`: UI with two views
   - Overall: most common choice per field for each scenario
@@ -112,7 +112,7 @@ src/
     run-benchmark.ts
     types.ts
   web/
-    server.ts
+    render.ts
 ```
 
 ## Notes
